@@ -11,7 +11,7 @@ public class LocationTrackerService {
 
     private static final List<String> NUMBERS = Arrays.asList(
              "+919015226215", "+919560481916",
-            "+918750351419", "+919911632885", "+918381582591","+917091586450","+918076182180","+917004841784"
+            "+918750351419", "+919911632885", "+918381582591","+917091586450","+918076182180","+917004841784","+918448641646"
     );
 
     // This method will run every 1 second
@@ -27,3 +27,4 @@ public class LocationTrackerService {
         }
     }
 }
+
